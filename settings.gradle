@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Cours-4.1-Suite_Fragments"
